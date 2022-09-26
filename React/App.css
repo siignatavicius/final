@@ -1,0 +1,57 @@
+.App {
+  padding: 50px;
+}
+
+.d-flex  {
+  display: flex;
+}
+
+.space-btw {
+  justify-content: space-between;
+}
+
+.justify-end {
+  justify-content: end;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.grow1 {
+  flex: 1
+}
+
+.grow3 {
+  flex: 3
+}
+
+.j-center {
+  justify-content: center;
+}
+
+.a-center {
+  align-items: center;
+}
+
+.log input {
+  margin: 5px;
+}
+.log button {
+  margin: 10px;
+}
+.profile img {
+  width: 200px;
+}
+.addphoto button {
+  margin-left: 10px;
+
+}
